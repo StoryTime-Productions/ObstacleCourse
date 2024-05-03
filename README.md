@@ -5,10 +5,10 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/License-MIT-purple.svg" />
-  <img src="https://img.shields.io/github/downloads/StoryTime-Productions/ObstacleCourse/total" />
-  <img src="https://img.shields.io/github/v/tag/StoryTime-Productions/ObstacleCourse.svg?sort=semver" />
-  <img src="https://img.shields.io/github/issues-raw/StoryTime-Productions/ObstacleCourse.svg?maxAge=25000" />
-  <img src="https://img.shields.io/github/issues-pr/StoryTime-Productions/ObstacleCourse.svg?style=flat" />
+  <img src="https://img.shields.io/github/downloads/StoryTime-Productions/ObstacleRush/total" />
+  <img src="https://img.shields.io/github/v/tag/StoryTime-Productions/ObstacleRush.svg?sort=semver" />
+  <img src="https://img.shields.io/github/issues-raw/StoryTime-Productions/ObstacleRush.svg?maxAge=25000" />
+  <img src="https://img.shields.io/github/issues-pr/StoryTime-Productions/ObstacleRush.svg?style=flat" />
   <br>
   <br>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
